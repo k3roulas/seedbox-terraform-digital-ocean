@@ -1,0 +1,6 @@
+.env
+terraform.tfstate
+terraform.tfstate.backup
+destroy
+.terraform.lock.hcl
+.terraform
