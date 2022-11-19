@@ -1,0 +1,6 @@
+# Generate API token from https://cloud.digitalocean.com/account/api/tokens
+api_key=""
+# Path to your ssh key, usually ~/.ssh (set the full path instead of using ~)
+ssh_key_pah=""
+# Name of local ssh key to access Digital Ocean hosts
+do_ssh_name=""
